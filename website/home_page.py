@@ -26,7 +26,7 @@ with st.container():
     st.write("A staggering 1 in 4 people are undernourished, but billions of pounds of food are wasted annually. Systems for food banks collect excess food and distribute it to those in need, involving all spheres of society (governments, business, and civil society) in the process.")
 with st.container():
     st.header("Where can you donate?")
-    st.write("There are many places in toronto where you can bring food, as well as find online websites many food banks across Toronto, for more information, <click here>")
+    st.write("There are many places in toronto where you can bring food, as well as find online websites many food banks across Toronto")
 with st.container():
     st.header("What can you donate?")
     st.write("For each and every food bank, you can donate any item that falls under these categories:")
